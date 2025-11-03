@@ -1,3 +1,136 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "Stunning aerial view of a luxury resort pool by the ocean at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1722409195473-d322e99621e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyZXNvcnQlMjBwb29sfGVufDB8fHx8MTc2MjExNzM3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "resort pool"
+    },
+    {
+      "id": "hero-2",
+      "description": "Elegant and modern resort lobby with a grand staircase.",
+      "imageUrl": "https://images.unsplash.com/photo-1583953458882-302655b5c376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc2MjE4NDQwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel lobby"
+    },
+    {
+      "id": "hero-3",
+      "description": "Couple enjoying a romantic dinner on a private beach at the resort.",
+      "imageUrl": "https://images.unsplash.com/photo-1621462796306-52532584b9f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiZWFjaCUyMGRpbm5lcnxlbnwwfHx8fDE3NjIxOTEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach dinner"
+    },
+    {
+      "id": "room-deluxe-1",
+      "description": "Spacious deluxe room with an ocean view from the balcony.",
+      "imageUrl": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob3RlbCUyMHJvb218ZW58MHx8fHwxNzYyMDc2MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel room"
+    },
+    {
+      "id": "room-deluxe-2",
+      "description": "Modern bathroom in the deluxe room with a large bathtub.",
+      "imageUrl": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjBiYXRocm9vbXxlbnwwfHx8fDE3NjIxMDgzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury bathroom"
+    },
+    {
+      "id": "room-suite-1",
+      "description": "Luxurious suite living area with contemporary furniture.",
+      "imageUrl": "https://images.unsplash.com/photo-1685592437742-3b56edb46b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3RlbCUyMHN1aXRlfGVufDB8fHx8MTc2MjE4NDQzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel suite"
+    },
+    {
+      "id": "room-suite-2",
+      "description": "King-size bed in the suite with premium linens.",
+      "imageUrl": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiZWRyb29tfGVufDB8fHx8MTc2MjE5MTAyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bedroom"
+    },
+    {
+      "id": "room-villa-1",
+      "description": "Exterior of a private family villa with its own pool.",
+      "imageUrl": "https://images.unsplash.com/photo-1654482278660-14a8cfd5589d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcml2YXRlJTIwdmlsbGF8ZW58MHx8fHwxNzYyMTQyNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "private villa"
+    },
+    {
+      "id": "room-villa-2",
+      "description": "Living and dining area inside the spacious family villa.",
+      "imageUrl": "https://images.unsplash.com/photo-1625163865002-c3563a586b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx2aWxsYSUyMGludGVyaW9yfGVufDB8fHx8MTc2MjEwMTU2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "villa interior"
+    },
+    {
+      "id": "dining-1",
+      "description": "Elegant fine dining restaurant interior at the resort.",
+      "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmaW5lJTIwZGluaW5nfGVufDB8fHx8MTc2MjE3MDgxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fine dining"
+    },
+    {
+      "id": "dining-2",
+      "description": "Casual beachside bar with cocktails and ocean view.",
+      "imageUrl": "https://images.unsplash.com/photo-1615129549504-de19ba618eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiZWFjaCUyMGJhcnxlbnwwfHx8fDE3NjIxOTEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach bar"
+    },
+    {
+      "id": "amenity-spa",
+      "description": "Serene spa treatment room with massage tables.",
+      "imageUrl": "https://images.unsplash.com/photo-1611920629891-7dd9bb3c3573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzcGElMjByb29tfGVufDB8fHx8MTc2MjExNDQxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spa room"
+    },
+    {
+      "id": "amenity-pool",
+      "description": "Large infinity pool overlooking the ocean.",
+      "imageUrl": "https://images.unsplash.com/photo-1500815845799-7748ca339f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpbmZpbml0eSUyMHBvb2x8ZW58MHx8fHwxNzYyMTgyMjQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "infinity pool"
+    },
+    {
+      "id": "amenity-gym",
+      "description": "State-of-the-art gym with modern fitness equipment.",
+      "imageUrl": "https://images.unsplash.com/photo-1660557989710-1a91e7e89d1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3RlbCUyMGd5bXxlbnwwfHx8fDE3NjIxODQ0MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel gym"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Beautifully manicured resort gardens.",
+      "imageUrl": "https://images.unsplash.com/photo-1718980411633-da44df8b7cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxob3RlbCUyMGdhcmRlbnxlbnwwfHx8fDE3NjIxODA1MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel garden"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Aerial view of the resort's private beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1543633550-001dc709647f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcml2YXRlJTIwYmVhY2h8ZW58MHx8fHwxNzYyMTkxMDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "private beach"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Resort exterior at night with beautiful lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1558387508-e83890617dc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZXNvcnQlMjBuaWdodHxlbnwwfHx8fDE3NjIxOTEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "resort night"
+    },
+    {
+      "id": "blog-1",
+      "description": "Top 5 local attractions near the resort.",
+      "imageUrl": "https://images.unsplash.com/photo-1504598318550-17eba1008a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0cmF2ZWwlMjBndWlkZXxlbnwwfHx8fDE3NjIxOTEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel guide"
+    },
+    {
+      "id": "blog-2",
+      "description": "A guide to the resort's signature spa treatments.",
+      "imageUrl": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcGElMjB0cmVhdG1lbnR8ZW58MHx8fHwxNzYyMTkxMDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spa treatment"
+    },
+    {
+      "id": "blog-3",
+      "description": "Chef's special recipe from our gourmet restaurant.",
+      "imageUrl": "https://images.unsplash.com/photo-1623073284788-0d846f75e329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnb3VybWV0JTIwZm9vZHxlbnwwfHx8fDE3NjIxNjA5OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet food"
+    },
+    {
+      "id": "about-story",
+      "description": "Vintage photo of the resort's founding.",
+      "imageUrl": "https://images.unsplash.com/photo-1655911204432-04323935f032?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoaXN0b3JpYyUyMGJ1aWxkaW5nfGVufDB8fHx8MTc2MjE1MDg3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historic building"
+    },
+    {
+      "id": "about-team",
+      "description": "The professional and friendly staff of the resort.",
+      "imageUrl": "https://images.unsplash.com/photo-1561489422-45de3d015e3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxob3RlbCUyMHN0YWZmfGVufDB8fHx8MTc2MjE5MTAyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel staff"
+    }
+  ]
 }
