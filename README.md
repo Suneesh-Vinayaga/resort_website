@@ -97,6 +97,5 @@ Book Now
 ![Booking page](image.png)
 
 
-🧑‍💻 Author
-Suneesh Vinayaga
+
 
