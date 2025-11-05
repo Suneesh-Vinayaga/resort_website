@@ -65,21 +65,6 @@ npm install
 Run the project locally
 
 
-
-🧩 Future Enhancements
-💬 Add a working contact form with backend integration
-
-
-🔒 Add authentication for booking management
-
-
-🧾 Dynamic booking confirmation page
-
-
-🧠 Convert to React / Next.js for scalability
-
-
-
 📸 Screenshots
 
 Home Page(Hero section):
