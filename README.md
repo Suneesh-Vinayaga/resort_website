@@ -44,31 +44,25 @@ Frontend
 HTML5, CSS3, JavaScript
 UI/UX
 Responsive design, CSS animations
-Hosting
-GitHub Pages / Netlify (recommended)
-Version Control
-Git & GitHub
 
 
-🚀 How to Run Locally
+📦 Installation & Run Steps
+
+If your project uses npm for live server or dependencies:
+
 Clone the repository
 
- git clone https://github.com/Suneesh-Vinayaga/resort_website.git
+git clone https://github.com/Suneesh-Vinayaga/resort_website.git
 
+Navigate to the project folder
 
-Navigate to the project directory
+cd resort_website
 
- cd resort_website
+Install dependencies (if applicable)
 
+npm install
 
-Open the project
-
-
-Open index.html in your browser directly
- or
-
-
-Use a live server in VS Code for best results.
+Run the project locally
 
 
 
